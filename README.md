@@ -23,7 +23,7 @@
 
 ### Host CBA - Userbot In Heroku (On Your Own Risk)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/CBA-Userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sampathsir/CBA-Userbot)
 
 ## Online Telegram-String Generator
 
